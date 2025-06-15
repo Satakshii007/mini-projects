@@ -22,7 +22,6 @@ ul.addEventListener("click", function(event){
     }
 });
 
-// will only work for elements already present...agar newly added elements ke liye bhi apply krna hai so do event delegation ya bubbling that is parent ke liye woh kaam karenge jo child ke liye krna tha
 
 // let delBtns = document.querySelectorAll(".del");
 // for(delBtn of delBtns){
